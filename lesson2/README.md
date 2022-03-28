@@ -9,6 +9,7 @@ https://wandb.ai/yasinnorozzadeh/Cifar10_CNN?workspace=user-yasinnorozzadeh
 https://wandb.ai/yasinnorozzadeh/Cifar100?workspace=user-yasinnorozzadeh
 
 | Dataset | MLP (Machine Learning) | CNN (Deep Learning)
+|     :---:      |  :---: | :---:
 |Mnist  |97%| 99%|
 |Fashion Mnist  |88%| 90%|
 |Cifar 10 |29%|70% |
